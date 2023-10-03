@@ -1,4 +1,4 @@
-# Ssh Plus Crakeado
+# SshPlus Crakeado
 Funcionando em ubuntu 18 e 20
 ## •instalação
 ```

@@ -4,8 +4,3 @@ Funcionando em ubuntu 18 e 20
 ```
 bash <(curl https://raw.githubusercontent.com/InfiniteNet/Infinitenet-SSH/main/install.sh)
 ```
-# DtProxy crakeado
-## •instalação
-```
-bash <(curl https://raw.githubusercontent.com/InfiniteNet/DtWithMAIN/main/install.sh)
-```
